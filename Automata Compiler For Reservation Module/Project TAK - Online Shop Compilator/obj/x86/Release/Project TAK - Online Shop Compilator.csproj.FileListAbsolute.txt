@@ -1,0 +1,44 @@
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.exe
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.pdb
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+C:\Users\Daivalentineno\AppData\Local\Temporary Projects\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.pdb
+E:\Daiva\Project\TAK\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+E:\Daiva\Project\TAK\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+E:\Daiva\Project\TAK\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+E:\Daiva\Project\TAK\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+E:\MATERI KULIAH\smt3\TAK\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.exe
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.pdb
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.pdb
+E:\Daiva\Project\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csprojResolveAssemblyReference.cache
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.exe
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.pdb
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csprojResolveAssemblyReference.cache
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+E:\MATERI KULIAH\smt3\TAK\Baru\Shinjin Online Shop Kompilator\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.pdb
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.exe
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.pdb
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csprojResolveAssemblyReference.cache
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+C:\Users\Daivalentineno\Desktop\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.pdb
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csprojResolveAssemblyReference.cache
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Form_Menu.resources
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project_TAK___Online_Shop_Compilator.Properties.Resources.resources
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.csproj.GenerateResource.Cache
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.exe
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.exe
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\bin\Release\Project TAK - Online Shop Compilator.pdb
+E:\Daiva\Project\TAK CD\Program TAK\Project TAK - Online Shop Compilator\Project TAK - Online Shop Compilator\obj\x86\Release\Project TAK - Online Shop Compilator.pdb
